@@ -17,7 +17,9 @@ Weather data will be fetched after setting up your own API key locally<br>
 
 ## 🎥 Demo Video
 
-## ▶️ https://youtu.be/Acj3NHGypb4?si=C7tKAjYDXaTrfpi3
+🔗 https://youtu.be/Acj3NHGypb4?si=C7tKAjYDXaTrfpi3
+
+---
 
 ## 🛠 Tech Stack
 
