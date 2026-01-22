@@ -13,9 +13,11 @@ This project uses a third-party API that requires a private API key.<br>
 To keep the key secure, the live demo showcases the frontend UI only.<br>
 Weather data will be fetched after setting up your own API key locally<br>
 
+---
+
 ## 🎥 Demo Video
 
-▶️ https://youtu.be/Acj3NHGypb4?si=C7tKAjYDXaTrfpi3
+## ▶️ https://youtu.be/Acj3NHGypb4?si=C7tKAjYDXaTrfpi3
 
 ## 🛠 Tech Stack
 
