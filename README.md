@@ -7,7 +7,7 @@ It allows users to search for any city and get real-time weather information usi
 
 ## 🚀 Live Demo
 
-🔗 https://student-sayan75.github.io/Weather-App/
+🔗 https://student-sayan75.github.io/weather-app/
 <br>⚠️ Live Demo Limitation
 This project uses a third-party API that requires a private API key.<br>
 To keep the key secure, the live demo showcases the frontend UI only.<br>
@@ -15,7 +15,7 @@ Weather data will be fetched after setting up your own API key locally<br>
 
 ## 🎥 Demo Video
 
-▶️ https://www.youtube.com/watch?v=YOUR_VIDEO_LINK
+▶️ https://youtu.be/Acj3NHGypb4?si=C7tKAjYDXaTrfpi3
 
 ## 🛠 Tech Stack
 
